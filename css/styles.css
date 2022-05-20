@@ -214,6 +214,9 @@ h3{
     padding: 1rem;
     appearance: none;
 }
+.form__opcion{
+    color: var(--negro);
+}
 .formulario__submit{
     background-color: var(--secundario);
     border: none;
